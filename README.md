@@ -15,7 +15,7 @@ I'm interested in NLP, CV.
 At the same time, I teach students programming on Python and etc.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kama34&repo=map-on-my-github&theme=dracula&bg_color=00000000&)](https://github.com/kama34/map-on-my-github)
 
 
 <details align="left">
