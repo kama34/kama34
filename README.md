@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-blue)](mailto:d.kamyshnikov.offer@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/kama34)
 
-I'm a ML engineer from Russia.
+I'm a ML engineer.
 
 I'm interested in NLP, CV. 
 At the same time, I teach students programming on Python and etc.
