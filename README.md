@@ -15,4 +15,4 @@ I'm interested in NLP, CV.
 At the same time, I teach students programming on Python and etc.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asdasd&repo=kama34.github.io&theme=dracula&bg_color=00000000&)](https://dkamyshnikov.ru/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kama34&repo=kama34.github.io&theme=dracula&bg_color=00000000&)](https://dkamyshnikov.ru/)
